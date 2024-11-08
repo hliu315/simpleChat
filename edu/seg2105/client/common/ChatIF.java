@@ -11,8 +11,7 @@ package edu.seg2105.client.common;
  * @author Dr Robert Lagani&egrave;re
  * @author Dr Timothy C. Lethbridge
  */
-public interface ChatIF 
-{
+public interface ChatIF {
   /**
    * Method that when overriden is used to display objects onto
    * a UI.
